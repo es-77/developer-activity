@@ -1,2 +1,2 @@
-Log entry 24 on 2022-01-07 at 09:38:23 UTC
-Task: perf: reduce memory footprint in batch processor
+Log entry 25 on 2022-01-07 at 22:52:40 UTC
+Task: fix: resolve race condition in websocket notification channel
