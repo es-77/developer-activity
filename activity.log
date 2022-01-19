@@ -1,2 +1,2 @@
-Log entry 90 on 2022-01-19 at 11:20:49 UTC
-Task: style: format codebase according to PSR-12 and ESLint rules
+Log entry 91 on 2022-01-19 at 14:19:54 UTC
+Task: refactor: decouple data layer and repository interfaces
