@@ -1,2 +1,2 @@
-Log entry 658 on 2022-06-14 at 16:38:32 UTC
-Task: fix: handle edge-case null pointer in session handler
+Log entry 659 on 2022-06-14 at 12:14:46 UTC
+Task: feat: implement rate limiting and throttling middleware
