@@ -1,2 +1,2 @@
-Log entry 730 on 2022-07-02 at 18:53:46 UTC
-Task: fix: resolve race condition in websocket notification channel
+Log entry 731 on 2022-07-02 at 11:52:51 UTC
+Task: fix: handle edge-case null pointer in session handler
