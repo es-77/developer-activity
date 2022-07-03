@@ -1,2 +1,2 @@
-Log entry 735 on 2022-07-03 at 11:23:26 UTC
-Task: perf: reduce memory footprint in batch processor
+Log entry 736 on 2022-07-03 at 16:18:26 UTC
+Task: feat: add asynchronous task queue worker support
