@@ -1,2 +1,2 @@
-Log entry 855 on 2022-07-31 at 20:51:43 UTC
-Task: feat: add asynchronous task queue worker support
+Log entry 856 on 2022-07-31 at 11:08:28 UTC
+Task: refactor: decouple data layer and repository interfaces
