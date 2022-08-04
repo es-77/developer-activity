@@ -1,2 +1,2 @@
-Log entry 875 on 2022-08-04 at 20:43:43 UTC
-Task: feat: add telemetry metrics and structured logging
+Log entry 876 on 2022-08-04 at 17:16:33 UTC
+Task: fix: resolve race condition in websocket notification channel
