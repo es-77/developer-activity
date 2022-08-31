@@ -1,2 +1,2 @@
-Log entry 985 on 2022-08-30 at 15:30:22 UTC
-Task: refactor: simplify state management in frontend components
+Log entry 986 on 2022-08-31 at 13:44:25 UTC
+Task: refactor: decouple data layer and repository interfaces
