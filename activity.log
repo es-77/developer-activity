@@ -1,2 +1,2 @@
-Log entry 1119 on 2022-09-28 at 16:08:46 UTC
-Task: feat: enhance API response serialization
+Log entry 1120 on 2022-09-28 at 18:33:01 UTC
+Task: fix: resolve race condition in websocket notification channel
