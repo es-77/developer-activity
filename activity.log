@@ -1,2 +1,2 @@
-Log entry 1580 on 2023-01-16 at 14:57:51 UTC
-Task: docs: document microservices architecture and endpoints
+Log entry 1581 on 2023-01-17 at 18:44:10 UTC
+Task: fix: resolve race condition in websocket notification channel
