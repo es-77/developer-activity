@@ -1,2 +1,2 @@
-Log entry 1758 on 2023-03-03 at 16:48:38 UTC
-Task: test: add unit tests for authentication flows
+Log entry 1759 on 2023-03-03 at 16:57:25 UTC
+Task: fix: resolve race condition in websocket notification channel
