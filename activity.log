@@ -1,2 +1,2 @@
-Log entry 1966 on 2023-04-23 at 18:19:35 UTC
-Task: feat: add telemetry metrics and structured logging
+Log entry 1967 on 2023-04-23 at 16:07:11 UTC
+Task: fix: resolve race condition in websocket notification channel
