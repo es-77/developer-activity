@@ -1,2 +1,2 @@
-Log entry 4907 on 2025-03-30 at 11:34:48 UTC
-Task: fix: resolve race condition in websocket notification channel
+Log entry 4908 on 2025-03-30 at 13:44:23 UTC
+Task: feat: add asynchronous task queue worker support
