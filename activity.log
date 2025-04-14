@@ -1,2 +1,2 @@
-Log entry 4965 on 2025-04-14 at 08:21:30 UTC
-Task: style: format codebase according to PSR-12 and ESLint rules
+Log entry 4966 on 2025-04-14 at 08:27:40 UTC
+Task: fix: resolve race condition in websocket notification channel
