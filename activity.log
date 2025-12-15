@@ -1,2 +1,2 @@
-Log entry 6015 on 2025-12-14 at 22:01:31 UTC
-Task: test: add unit tests for authentication flows
+Log entry 6016 on 2025-12-15 at 19:02:37 UTC
+Task: fix: resolve race condition in websocket notification channel
