@@ -1,2 +1,2 @@
-Log entry 6395 on 2026-03-12 at 11:55:07 UTC
-Task: style: format codebase according to PSR-12 and ESLint rules
+Log entry 6396 on 2026-03-12 at 22:43:36 UTC
+Task: refactor: decouple data layer and repository interfaces
