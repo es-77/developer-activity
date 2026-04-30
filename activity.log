@@ -1,2 +1,2 @@
-Log entry 6593 on 2026-04-30 at 14:30:24 UTC
-Task: feat: add asynchronous task queue worker support
+Log entry 6594 on 2026-04-30 at 11:40:31 UTC
+Task: perf: reduce memory footprint in batch processor
