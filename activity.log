@@ -1,2 +1,2 @@
-Log entry 6966 on 2026-07-27 at 21:12:48 UTC
-Task: fix: resolve race condition in websocket notification channel
+Log entry 6967 on 2026-07-28 at 08:07:49 UTC
+Task: perf: reduce memory footprint in batch processor
